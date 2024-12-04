@@ -1,2 +1,2 @@
 # MS-EXCEL
-This is an end to end projects of Ms Excel
+This is a Ms Excel end to end Projects
